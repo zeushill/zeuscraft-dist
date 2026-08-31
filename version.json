@@ -1,0 +1,6 @@
+{
+  "version": "2.0.8",
+  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.0.8/ZeusCraft-2.0.8.zip",
+  "releasedAt": "2026-08-31",
+  "notes": "로고 지우기: 세 겹으로 물러서 실패하지 않게, 안 되면 조용히 예전 방식으로"
+}
