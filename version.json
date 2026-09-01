@@ -1,6 +1,6 @@
 {
-  "version": "2.3.1",
-  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.3.1/ZeusCraft-2.3.1.zip",
+  "version": "2.3.2",
+  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.3.2/ZeusCraft-2.3.2.zip",
   "releasedAt": "2026-09-01",
-  "notes": "Flow 계정 여러 개 쓰기를 꺼 두고 단추를 예전 모습으로"
+  "notes": "Flow·Grok 상태 색을 바로 갱신 · 그록 조회는 30초로 묶음"
 }
