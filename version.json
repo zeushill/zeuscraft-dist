@@ -1,6 +1,6 @@
 {
-  "version": "2.1.1",
-  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.1.1/ZeusCraft-2.1.1.zip",
+  "version": "2.1.2",
+  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.1.2/ZeusCraft-2.1.2.zip",
   "releasedAt": "2026-09-01",
-  "notes": "Flow 계정 탭 추가 — 한 창에서 여러 구글 계정으로 이어서 생성"
+  "notes": "Flow 계정 탭 버튼을 눈에 띄게 · 한도 이어받기 설명"
 }
