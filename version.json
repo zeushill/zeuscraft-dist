@@ -1,6 +1,6 @@
 {
-  "version": "2.2.6",
-  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.2.6/ZeusCraft-2.2.6.zip",
+  "version": "2.2.7",
+  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.2.7/ZeusCraft-2.2.7.zip",
   "releasedAt": "2026-09-01",
-  "notes": "'크레딧' 이 아니라 '이미지 생성 한도' 로 문구 정정"
+  "notes": "0번 계정 자리를 빠뜨리던 문제 · 탐색 시간 단축"
 }
