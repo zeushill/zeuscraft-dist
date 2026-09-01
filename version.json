@@ -1,6 +1,6 @@
 {
-  "version": "2.1.2",
-  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.1.2/ZeusCraft-2.1.2.zip",
+  "version": "2.1.3",
+  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.1.3/ZeusCraft-2.1.3.zip",
   "releasedAt": "2026-09-01",
-  "notes": "Flow 계정 탭 버튼을 눈에 띄게 · 한도 이어받기 설명"
+  "notes": "계정을 안 밝힌 Flow 탭 경고 + [계정 밝히기] 한 번에 고치기"
 }
