@@ -1,6 +1,6 @@
 {
-  "version": "2.2.3",
-  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.2.3/ZeusCraft-2.2.3.zip",
+  "version": "2.2.4",
+  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.2.4/ZeusCraft-2.2.4.zip",
   "releasedAt": "2026-09-01",
-  "notes": "계정을 바꾸기 전에 옛 인증을 지움 — 뜨기도 전에 판단하던 문제"
+  "notes": "탭 계정을 물을 때 전역 토큰으로 되돌아가던 문제 · 못 찾으면 계정 선택 화면으로"
 }
