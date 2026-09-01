@@ -1,6 +1,6 @@
 {
-  "version": "2.1.9",
-  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.1.9/ZeusCraft-2.1.9.zip",
+  "version": "2.2.0",
+  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.2.0/ZeusCraft-2.2.0.zip",
   "releasedAt": "2026-09-01",
-  "notes": "계정 늘리기를 위쪽 Flow 단추로 · 400 나던 계정 선택 주소 수정"
+  "notes": "위 Flow 단추와 설정 안내를 함께 갱신"
 }
