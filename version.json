@@ -1,6 +1,6 @@
 {
-  "version": "2.1.3",
-  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.1.3/ZeusCraft-2.1.3.zip",
+  "version": "2.1.4",
+  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.1.4/ZeusCraft-2.1.4.zip",
   "releasedAt": "2026-09-01",
-  "notes": "계정을 안 밝힌 Flow 탭 경고 + [계정 밝히기] 한 번에 고치기"
+  "notes": "계정 밝히기를 저절로 — 버튼을 누르지 않아도 됩니다"
 }
