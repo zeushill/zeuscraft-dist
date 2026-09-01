@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0",
-  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.2.0/ZeusCraft-2.2.0.zip",
+  "version": "2.2.2",
+  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.2.2/ZeusCraft-2.2.2.zip",
   "releasedAt": "2026-09-01",
-  "notes": "위 Flow 단추와 설정 안내를 함께 갱신"
+  "notes": "계정 번호를 차례로 시도 · Flow + 표시 · 상태 갱신 3초"
 }
