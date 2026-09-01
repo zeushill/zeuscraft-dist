@@ -1,6 +1,6 @@
 {
-  "version": "2.1.7",
-  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.1.7/ZeusCraft-2.1.7.zip",
+  "version": "2.1.8",
+  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.1.8/ZeusCraft-2.1.8.zip",
   "releasedAt": "2026-09-01",
-  "notes": "Flow 계정 탭 버튼을 진한 초록으로"
+  "notes": "계정 추가를 구글 계정 선택 화면으로 — 번호를 짐작하지 않습니다"
 }
