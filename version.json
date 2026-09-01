@@ -1,6 +1,6 @@
 {
-  "version": "2.2.8",
-  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.2.8/ZeusCraft-2.2.8.zip",
+  "version": "2.2.9",
+  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.2.9/ZeusCraft-2.2.9.zip",
   "releasedAt": "2026-09-01",
-  "notes": "자리마다 새 탭 — 옛 계정 토큰이 섞이던 문제"
+  "notes": "계정을 못 찾았을 때 진짜 이유를 알려줌"
 }
