@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0",
-  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.1.0/ZeusCraft-2.1.0.zip",
+  "version": "2.1.1",
+  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.1.1/ZeusCraft-2.1.1.zip",
   "releasedAt": "2026-09-01",
-  "notes": "프롬프트 엑셀 주고받기 · 튜브워커 완성 프롬프트 · 생성 실패 시 재시도 · 업로드 개선"
+  "notes": "Flow 계정 탭 추가 — 한 창에서 여러 구글 계정으로 이어서 생성"
 }
