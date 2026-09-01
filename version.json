@@ -1,6 +1,6 @@
 {
-  "version": "2.2.5",
-  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.2.5/ZeusCraft-2.2.5.zip",
+  "version": "2.2.6",
+  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.2.6/ZeusCraft-2.2.6.zip",
   "releasedAt": "2026-09-01",
-  "notes": "로그인 뒤 그 계정으로 Flow 까지 이어서 열어줌"
+  "notes": "'크레딧' 이 아니라 '이미지 생성 한도' 로 문구 정정"
 }
