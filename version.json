@@ -1,6 +1,6 @@
 {
-  "version": "2.1.4",
-  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.1.4/ZeusCraft-2.1.4.zip",
+  "version": "2.1.5",
+  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.1.5/ZeusCraft-2.1.5.zip",
   "releasedAt": "2026-09-01",
-  "notes": "계정 밝히기를 저절로 — 버튼을 누르지 않아도 됩니다"
+  "notes": "계정 인증을 확장이 알아서 기다림 · 계정별 준비 상태 표시"
 }
