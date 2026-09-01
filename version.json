@@ -1,6 +1,6 @@
 {
-  "version": "2.2.2",
-  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.2.2/ZeusCraft-2.2.2.zip",
+  "version": "2.2.3",
+  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.2.3/ZeusCraft-2.2.3.zip",
   "releasedAt": "2026-09-01",
-  "notes": "계정 번호를 차례로 시도 · Flow + 표시 · 상태 갱신 3초"
+  "notes": "계정을 바꾸기 전에 옛 인증을 지움 — 뜨기도 전에 판단하던 문제"
 }
