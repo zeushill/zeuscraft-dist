@@ -1,6 +1,6 @@
 {
-  "version": "2.1.5",
-  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.1.5/ZeusCraft-2.1.5.zip",
+  "version": "2.1.6",
+  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.1.6/ZeusCraft-2.1.6.zip",
   "releasedAt": "2026-09-01",
-  "notes": "계정 인증을 확장이 알아서 기다림 · 계정별 준비 상태 표시"
+  "notes": "계정을 번호가 아니라 실제 토큰으로 구분 — 같은 계정 중복을 잡아냄"
 }
