@@ -1,6 +1,6 @@
 {
-  "version": "2.2.4",
-  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.2.4/ZeusCraft-2.2.4.zip",
+  "version": "2.2.5",
+  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.2.5/ZeusCraft-2.2.5.zip",
   "releasedAt": "2026-09-01",
-  "notes": "탭 계정을 물을 때 전역 토큰으로 되돌아가던 문제 · 못 찾으면 계정 선택 화면으로"
+  "notes": "로그인 뒤 그 계정으로 Flow 까지 이어서 열어줌"
 }
