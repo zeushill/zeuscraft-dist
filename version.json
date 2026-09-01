@@ -1,6 +1,6 @@
 {
-  "version": "2.1.6",
-  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.1.6/ZeusCraft-2.1.6.zip",
+  "version": "2.1.7",
+  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.1.7/ZeusCraft-2.1.7.zip",
   "releasedAt": "2026-09-01",
-  "notes": "계정을 번호가 아니라 실제 토큰으로 구분 — 같은 계정 중복을 잡아냄"
+  "notes": "Flow 계정 탭 버튼을 진한 초록으로"
 }
