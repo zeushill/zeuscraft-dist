@@ -1,6 +1,6 @@
 {
-    "version":  "2.4.2",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.4.2/ZeusCraft-2.4.2.zip",
+    "version":  "2.4.3",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.4.3/ZeusCraft-2.4.3.zip",
     "releasedAt":  "2026-09-02",
-    "notes":  "새 버전 알림 복구 · 프로젝트명 자동 입력 · 튜브워커 꺼져 있을 때 프롬프트 자동 채움 안 함"
+    "notes":  "튜브워커가 닫혀 있으면 프롬프트를 자동으로 채우지 않습니다 · 새 버전 알림 복구 · 프로젝트명 자동 입력"
 }
