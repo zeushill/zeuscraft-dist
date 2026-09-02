@@ -1,6 +1,6 @@
 {
-  "version": "2.3.2",
-  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.3.2/ZeusCraft-2.3.2.zip",
-  "releasedAt": "2026-09-01",
-  "notes": "Flow·Grok 상태 색을 바로 갱신 · 그록 조회는 30초로 묶음"
+  "version": "2.4.1",
+  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.4.1/ZeusCraft-2.4.1.zip",
+  "releasedAt": "2026-09-02",
+  "notes": "자동 고정·프롬프트 자동 채우기 · 동시 실행 개선 · 마무리 정리"
 }
