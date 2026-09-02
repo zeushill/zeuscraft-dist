@@ -1,6 +1,6 @@
 {
-  "version": "2.4.1",
-  "file": "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.4.1/ZeusCraft-2.4.1.zip",
-  "releasedAt": "2026-09-02",
-  "notes": "자동 고정·프롬프트 자동 채우기 · 동시 실행 개선 · 마무리 정리"
+    "version":  "2.4.2",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.4.2/ZeusCraft-2.4.2.zip",
+    "releasedAt":  "2026-09-02",
+    "notes":  "새 버전 알림 복구 · 프로젝트명 자동 입력 · 동영상 프롬프트 창 정리"
 }
