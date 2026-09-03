@@ -1,6 +1,6 @@
 {
-    "version":  "2.6.0",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.6.0/ZeusCraft-2.6.0.zip",
+    "version":  "2.6.1",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.6.1/ZeusCraft-2.6.1.zip",
     "releasedAt":  "2026-09-03",
-    "notes":  "Flow 옛 주소(labs.google)도 다시 지원 — 405 오류 해결 · 씬별 업로드 · 진단 파일 자동 저장 제거"
+    "notes":  "[Flow] 버튼이 labs.google 로 열립니다 (널리 쓰는 주소)"
 }
