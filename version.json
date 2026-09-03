@@ -1,6 +1,6 @@
 {
-    "version":  "2.5.1",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.5.1/ZeusCraft-2.5.1.zip",
+    "version":  "2.6.0",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.6.0/ZeusCraft-2.6.0.zip",
     "releasedAt":  "2026-09-03",
-    "notes":  "진단 파일이 매번 내려받기 폴더에 쌓이던 것을 고쳤습니다 (2.5.0 을 받으셨다면 꼭 갱신)"
+    "notes":  "Flow 옛 주소(labs.google)도 다시 지원 — 405 오류 해결 · 씬별 업로드 · 진단 파일 자동 저장 제거"
 }
