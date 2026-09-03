@@ -1,6 +1,6 @@
 {
-    "version":  "2.4.4",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.4.4/ZeusCraft-2.4.4.zip",
+    "version":  "2.5.0",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.5.0/ZeusCraft-2.5.0.zip",
     "releasedAt":  "2026-09-03",
-    "notes":  "Flow 주소 변경(flow.google.com) 대응 — 이미지 생성이 안 되던 문제 · 튜브워커 프로젝트 전환 반영"
+    "notes":  "Flow API 전면 변경 대응 — 이전 판은 이미지 생성이 되지 않습니다. 꼭 받으세요"
 }
