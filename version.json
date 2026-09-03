@@ -1,6 +1,6 @@
 {
-    "version":  "2.5.0",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.5.0/ZeusCraft-2.5.0.zip",
+    "version":  "2.5.1",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.5.1/ZeusCraft-2.5.1.zip",
     "releasedAt":  "2026-09-03",
-    "notes":  "Flow API 전면 변경 대응 — 이전 판은 이미지 생성이 되지 않습니다. 꼭 받으세요"
+    "notes":  "진단 파일이 매번 내려받기 폴더에 쌓이던 것을 고쳤습니다 (2.5.0 을 받으셨다면 꼭 갱신)"
 }
