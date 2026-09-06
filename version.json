@@ -1,6 +1,6 @@
 {
-    "version":  "2.7.0",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.7.0/ZeusCraft-2.7.0.zip",
+    "version":  "2.7.1",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.7.1/ZeusCraft-2.7.1.zip",
     "releasedAt":  "2026-09-06",
-    "notes":  "실행이 조용히 되돌아가던 것 수정 · 마스코트 참조 · 파일명이 UUID 로 저장되던 것 수정"
+    "notes":  "마스코트를 어느 열쇠로 올렸는지 로그에 남깁니다"
 }
