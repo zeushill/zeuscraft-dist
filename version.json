@@ -1,6 +1,6 @@
 {
-    "version":  "2.6.1",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.6.1/ZeusCraft-2.6.1.zip",
-    "releasedAt":  "2026-09-03",
-    "notes":  "[Flow] 버튼이 labs.google 로 열립니다 (널리 쓰는 주소)"
+    "version":  "2.7.0",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.7.0/ZeusCraft-2.7.0.zip",
+    "releasedAt":  "2026-09-06",
+    "notes":  "실행이 조용히 되돌아가던 것 수정 · 마스코트 참조 · 파일명이 UUID 로 저장되던 것 수정"
 }
