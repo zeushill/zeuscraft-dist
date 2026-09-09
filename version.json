@@ -1,6 +1,6 @@
 {
-    "version":  "2.7.1",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.7.1/ZeusCraft-2.7.1.zip",
-    "releasedAt":  "2026-09-06",
-    "notes":  "마스코트를 어느 열쇠로 올렸는지 로그에 남깁니다"
+    "version":  "2.8.0",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.8.0/ZeusCraft-2.8.0.zip",
+    "releasedAt":  "2026-09-09",
+    "notes":  "프로젝트명을 고정 없이 바로 가져옵니다 · 실패선택·빈씬선택을 토글로 · Grok 탭을 알아서 엽니다"
 }
