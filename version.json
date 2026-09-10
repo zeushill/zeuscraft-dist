@@ -1,6 +1,6 @@
 {
-    "version":  "2.9.0",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.9.0/ZeusCraft-2.9.0.zip",
-    "releasedAt":  "2026-09-09",
-    "notes":  "끝나고 남은 것을 자동으로 마무리합니다 — 만들기는 줄어드는 동안, 올리기는 두 번 더"
+    "version":  "2.9.1",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.9.1/ZeusCraft-2.9.1.zip",
+    "releasedAt":  "2026-09-10",
+    "notes":  "구글 계정을 여러 개 쓸 때 이미지 생성이 400 으로 막히던 것을 고쳤습니다"
 }
