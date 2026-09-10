@@ -1,6 +1,6 @@
 {
-    "version":  "2.9.2",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.9.2/ZeusCraft-2.9.2.zip",
+    "version":  "2.9.3",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.9.3/ZeusCraft-2.9.3.zip",
     "releasedAt":  "2026-09-10",
-    "notes":  "영상마다 없던 물·구름·연기가 나오던 것을 고쳤습니다 — 기본 움직임 지시가 그렇게 시키고 있었습니다"
+    "notes":  "동영상 공통 프롬프트를 한 줄로 줄이고, 한글로 적어도 지워지지 않게 했습니다"
 }
