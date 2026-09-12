@@ -1,6 +1,6 @@
 {
-    "version":  "2.9.3",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v2.9.3/ZeusCraft-2.9.3.zip",
-    "releasedAt":  "2026-09-10",
-    "notes":  "동영상 공통 프롬프트를 한 줄로 줄이고, 한글로 적어도 지워지지 않게 했습니다"
+    "version":  "3.0.0",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v3.0.0/ZeusCraft-3.0.0.zip",
+    "releasedAt":  "2026-09-13",
+    "notes":  "튜브워커 프로젝트를 그대로 가져옵니다 · 캐릭터 자동 적용 · 동시 처리 1~3"
 }
