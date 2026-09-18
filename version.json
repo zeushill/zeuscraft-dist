@@ -1,6 +1,6 @@
 {
-    "version":  "3.1.0",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v3.1.0/ZeusCraft-3.1.0.zip",
-    "releasedAt":  "2026-09-17",
-    "notes":  "마스코트 적용 버전 — 튜브워커 채널 마스코트가 Flow 캐릭터 참조로 모든 씬에 걸립니다"
+    "version":  "3.1.1",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v3.1.1/ZeusCraft-3.1.1.zip",
+    "releasedAt":  "2026-09-19",
+    "notes":  "그록 동영상이 씬마다 두 개씩 만들어지던 것을 고쳤습니다"
 }
