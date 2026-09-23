@@ -1,6 +1,6 @@
 {
-    "version":  "3.2.1",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v3.2.1/ZeusCraft-3.2.1.zip",
-    "releasedAt":  "2026-09-23",
-    "notes":  "구글이 막은 이미지 생성을 화면 조작 방식으로 우회합니다 — 한 장씩 만듭니다"
+    "version":  "3.3.0",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v3.3.0/ZeusCraft-3.3.0.zip",
+    "releasedAt":  "2026-09-24",
+    "notes":  "동시 2장 이상 생성 · 프롬프트를 3~6초 간격으로 넣어 봇 판정을 피합니다"
 }
