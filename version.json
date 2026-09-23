@@ -1,6 +1,6 @@
 {
-    "version":  "3.1.1",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v3.1.1/ZeusCraft-3.1.1.zip",
-    "releasedAt":  "2026-09-19",
-    "notes":  "그록 동영상이 씬마다 두 개씩 만들어지던 것을 고쳤습니다"
+    "version":  "3.2.0",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v3.2.0/ZeusCraft-3.2.0.zip",
+    "releasedAt":  "2026-09-23",
+    "notes":  "구글이 막은 이미지 생성을 화면 조작 방식으로 우회합니다 — 한 장씩 만듭니다"
 }
