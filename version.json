@@ -1,6 +1,6 @@
 {
-    "version":  "3.3.0",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v3.3.0/ZeusCraft-3.3.0.zip",
-    "releasedAt":  "2026-09-24",
-    "notes":  "동시 2장 이상 생성 · 프롬프트를 3~6초 간격으로 넣어 봇 판정을 피합니다"
+    "version":  "3.3.1",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v3.3.1/ZeusCraft-3.3.1.zip",
+    "releasedAt":  "2026-09-25",
+    "notes":  "프롬프트 넣는 간격을 설정에서 정합니다 (기본 10~13초)"
 }
