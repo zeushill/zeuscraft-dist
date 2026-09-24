@@ -1,6 +1,6 @@
 {
-    "version":  "3.3.1",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v3.3.1/ZeusCraft-3.3.1.zip",
+    "version":  "3.4.0",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v3.4.0/ZeusCraft-3.4.0.zip",
     "releasedAt":  "2026-09-25",
-    "notes":  "프롬프트 넣는 간격을 설정에서 정합니다 (기본 10~13초)"
+    "notes":  "봇으로 막히면 5분·30분 쉬었다가 이어 만듭니다 · 동시 처리 기본이 1 로 바뀌었습니다"
 }
