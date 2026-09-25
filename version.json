@@ -1,6 +1,6 @@
 {
-    "version":  "3.4.0",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v3.4.0/ZeusCraft-3.4.0.zip",
+    "version":  "4.0.0",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v4.0.0/ZeusCraft-4.0.0.zip",
     "releasedAt":  "2026-09-25",
-    "notes":  "봇으로 막히면 5분·30분 쉬었다가 이어 만듭니다 · 동시 처리 기본이 1 로 바뀌었습니다"
+    "notes":  "이미지를 Flow 공식 도구로 만듭니다 · 로고 지우기(AI)가 다시 동작합니다"
 }
