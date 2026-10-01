@@ -1,6 +1,6 @@
 {
-    "version":  "4.1.0",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v4.1.0/ZeusCraft-4.1.0.zip",
-    "releasedAt":  "2026-09-28",
-    "notes":  "이미지를 최대 5장씩 함께 만듭니다 · 로고 지우기 3초 · 패널이 굳지 않습니다 · 만들다 목록이 비던 문제 수정"
+    "version":  "4.1.1",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v4.1.1/ZeusCraft-4.1.1.zip",
+    "releasedAt":  "2026-10-01",
+    "notes":  "동영상 길이가 그록에 반영되지 않던 것을 고쳤습니다 · 위에서 길이를 바꾸면 모든 씬에 적용됩니다"
 }
