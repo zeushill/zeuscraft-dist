@@ -1,6 +1,6 @@
 {
-    "version":  "4.1.1",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v4.1.1/ZeusCraft-4.1.1.zip",
-    "releasedAt":  "2026-10-01",
-    "notes":  "동영상 길이가 그록에 반영되지 않던 것을 고쳤습니다 · 위에서 길이를 바꾸면 모든 씬에 적용됩니다"
+    "version":  "4.1.2",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v4.1.2/ZeusCraft-4.1.2.zip",
+    "releasedAt":  "2026-10-11",
+    "notes":  "연결 도구 주소 기본값을 비웠고, 비운 뜻을 기억해 다시 채우지 않습니다 · 원인 불명 실패가 3번 연속되면 멈춥니다"
 }
