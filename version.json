@@ -1,6 +1,6 @@
 {
-    "version":  "4.1.4",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v4.1.4/ZeusCraft-4.1.4.zip",
-    "releasedAt":  "2026-11-03",
-    "notes":  "이미지를 Flow 연결 도구로만 만듭니다 — 두어 장 만에 \u0027비정상적인 활동\u0027으로 막히던 것 · 연결 도구 주소가 비어 있으면 기본 도구로 채웁니다 · 도구 화면이 [프로젝트에서 사용해 보기]에서 멈추면 안내합니다"
+    "version":  "4.1.5",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v4.1.5/ZeusCraft-4.1.5.zip",
+    "releasedAt":  "2026-11-04",
+    "notes":  "튜브워커 페이지를 읽을 때 크롬 확장 [오류]에 \u0027inline event handler … Content Security Policy\u0027 기록이 남던 것을 없앴습니다 (기능에는 원래 지장 없었음)"
 }
