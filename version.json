@@ -1,6 +1,6 @@
 {
-    "version":  "5.0.1",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v5.0.1/ZeusCraft-5.0.1.zip",
+    "version":  "5.0.2",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v5.0.2/ZeusCraft-5.0.2.zip",
     "releasedAt":  "2026-11-12",
-    "notes":  "5.0.1 — 씬 카드에 이미지·동영상 내려받기(⬇) 아이콘 추가 · 설정에 [내려받기] 구역 신설(JSON/PC 폴더 저장 항목 이동) · 내보내면 모든 씬이 바로 \u0027생성 중\u0027으로 표시 · 갤러리 확인 간격 3~5초로 단축"
+    "notes":  "5.0.2 — 확장을 껐다 켜도 남은 그림을 갤러리에서 이어서 받음 · 도구가 다른 번호표로 만든 그림도 씬 순서대로 가져옴 · 그림 수집이 끊기지 않도록 보강"
 }
