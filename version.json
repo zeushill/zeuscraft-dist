@@ -1,6 +1,6 @@
 {
-    "version":  "5.0.0",
-    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v5.0.0/ZeusCraft-5.0.0.zip",
-    "releasedAt":  "2026-11-11",
-    "notes":  "5.0.0 — Flow 페이지에 아무것도 넣지 않는 방식으로 전면 개편: Flow 도구가 이미지를 만들어 갤러리에 저장하면 확장이 갤러리에서 받아 로고 지우기 · 튜브워커 업로드까지 자동 처리합니다. (Flow 비정상적인 활동 차단 방지) 업데이트하면 새 Flow 도구 주소가 자동으로 들어갑니다."
+    "version":  "5.0.1",
+    "file":  "https://github.com/zeushill/zeuscraft-dist/releases/download/v5.0.1/ZeusCraft-5.0.1.zip",
+    "releasedAt":  "2026-11-12",
+    "notes":  "5.0.1 — 씬 카드에 이미지·동영상 내려받기(⬇) 아이콘 추가 · 설정에 [내려받기] 구역 신설(JSON/PC 폴더 저장 항목 이동) · 내보내면 모든 씬이 바로 \u0027생성 중\u0027으로 표시 · 갤러리 확인 간격 3~5초로 단축"
 }
